@@ -1,0 +1,6 @@
+git remote add origin https://github.com/CyberSaiper/silastokwakwasi.git
+
+
+
+Click Save. GitHub will generate a URL for your site 
+(e.g., https://CyberSaipher.github.io/silastokwakwasi/).
